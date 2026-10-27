@@ -52,3 +52,8 @@ figure, follow the "read it with outputs" link.
 | 30a | [Pointed or Round?](https://glass-box-sigma.vercel.app/lectures/30a-pointed-or-round/) | T4 GPU | [read it with outputs](https://glass-box-sigma.vercel.app/lectures/30a-pointed-or-round/notebook/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RajatDandekar/anatomy-of-ai-notebooks/blob/main/notebooks/30a-pointed-or-round.ipynb) |
 | 30b | [The Verdict](https://glass-box-sigma.vercel.app/lectures/30b-the-verdict/) | T4 GPU | [read it with outputs](https://glass-box-sigma.vercel.app/lectures/30b-the-verdict/notebook/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RajatDandekar/anatomy-of-ai-notebooks/blob/main/notebooks/30b-the-verdict.ipynb) |
 | 31 | [Capstone](https://glass-box-sigma.vercel.app/lectures/31-capstone/) | T4 GPU | [read it with outputs](https://glass-box-sigma.vercel.app/lectures/31-capstone/notebook/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RajatDandekar/anatomy-of-ai-notebooks/blob/main/notebooks/31-capstone.ipynb) |
+
+## License
+
+The notebooks are released under the [MIT License](LICENSE). The models and datasets they download keep their own
+licenses.
